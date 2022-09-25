@@ -1,0 +1,75 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+header{
+   background-color: white;
+    display: flex;
+    align-items: center;
+    
+}
+
+
+
+
+.annot{
+    text-align: center;
+    display: flex;
+    list-style: none;
+    gap: 90px;
+    font-size: 90px;
+    cursor: no-drop;
+   
+}
+
+
+
+
+
+
+
+
+
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 600px;
+    padding: 7%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    
+}
+
+img{
+    width: 70%;
+}
+
+body{
+    background-color: rgb(226, 246, 255);
+font-family: Oswald;
+}
+
+
+
+
+.BUG{
+    cursor: no-drop;
+}
+
+
+
+.footer{
+  margin-top: 40%;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    display: flex;
+    align-items: flex-start;
+    background-color:black;
+cursor: no-drop;
+height: 100px;
+
+}
